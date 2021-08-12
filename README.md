@@ -1,0 +1,2 @@
+# kartu-nama
+berisi biodata
